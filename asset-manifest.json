@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/macbook-teszt/static/css/main.c124b6f8.css",
+    "main.js": "/macbook-teszt/static/js/main.da634efd.js",
+    "index.html": "/macbook-teszt/index.html",
+    "main.c124b6f8.css.map": "/macbook-teszt/static/css/main.c124b6f8.css.map",
+    "main.da634efd.js.map": "/macbook-teszt/static/js/main.da634efd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c124b6f8.css",
+    "static/js/main.da634efd.js"
+  ]
+}
